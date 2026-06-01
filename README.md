@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalsingh026&label=Profile%20views&color=0e75b6&style=plastic" alt="kunalsingh026" /> </p>
+[<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalsingh026&label=Profile%20views&color=0e75b6&style=plastic" alt="kunalsingh026" /> </p>](https://samdev-pulse.vercel.app/api/profile?username=kunalSingh026)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalsingh026" alt="kunalsingh026" /></a> </p>
 

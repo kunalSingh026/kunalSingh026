@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <!-- Animated Header -->
@@ -214,4 +213,3 @@ const kunal = {
 *"Stay Curious. Keep Building. Never Stop Learning."*
 
 </div>
-```

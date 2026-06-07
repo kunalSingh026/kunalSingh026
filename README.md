@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Kunal%20Kumar%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=🚀+Full+Stack+Developer;🛡️+Cybersecurity+Enthusiast;☁️+DevOps+Learner;🌟+Open+Source+Contributor;🏆+Hackathon+Builder;💡+Building+Scalable+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;DevOps+Learner;Open+Source+Contributor" />
 
 <br><br>
 
